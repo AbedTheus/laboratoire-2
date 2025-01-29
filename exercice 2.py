@@ -1,0 +1,5 @@
+valeur = input("entrer un nombre")
+entier = (int(valeur))
+flottant = (float(valeur))
+print(entier)
+print(flottant)
